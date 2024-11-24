@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Yvedoo/static/css/main.59ce8c41.css",
-    "main.js": "/Yvedoo/static/js/main.f696868b.js",
+    "main.js": "/Yvedoo/static/js/main.5fc4efb1.js",
     "static/js/453.2a2b13ad.chunk.js": "/Yvedoo/static/js/453.2a2b13ad.chunk.js",
     "static/media/logo.png": "/Yvedoo/static/media/logo.d0d545344fee1af92bb3.png",
     "static/media/spinner.svg": "/Yvedoo/static/media/spinner.f24764d6ee10bf74899907549a2d9a25.svg",
     "index.html": "/Yvedoo/index.html",
     "static/media/search.svg": "/Yvedoo/static/media/search.582e6fdae2c59f4e7b41bc2c538877cd.svg",
     "main.59ce8c41.css.map": "/Yvedoo/static/css/main.59ce8c41.css.map",
-    "main.f696868b.js.map": "/Yvedoo/static/js/main.f696868b.js.map",
+    "main.5fc4efb1.js.map": "/Yvedoo/static/js/main.5fc4efb1.js.map",
     "453.2a2b13ad.chunk.js.map": "/Yvedoo/static/js/453.2a2b13ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ce8c41.css",
-    "static/js/main.f696868b.js"
+    "static/js/main.5fc4efb1.js"
   ]
 }
